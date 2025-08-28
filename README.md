@@ -10,17 +10,10 @@ BaristaBot is an autonomous service robot designed for coffee shop environments,
 
 ### Simulation Testing - Ignition Fortress
 <p align="center">
-  <img src="images/baristabot_ignition_demo.gif" alt="BaristaBot Ignition Demo" width="800">
+  <img src="./barista_ign.png" alt="BaristaBot Ignition Demo" width="800">
 </p>
 
 *BaristaBot navigating autonomously in Ignition Fortress with LiDAR visualization and differential drive control*
-
-### RViz Visualization
-<p align="center">
-  <img src="images/baristabot_rviz.png" alt="BaristaBot RViz Visualization" width="800">
-</p>
-
-*Complete URDF model visualization showing sensor frames, joint states, and TF tree in RViz2*
 
 ### Robot Design Concept
 <p align="center">
